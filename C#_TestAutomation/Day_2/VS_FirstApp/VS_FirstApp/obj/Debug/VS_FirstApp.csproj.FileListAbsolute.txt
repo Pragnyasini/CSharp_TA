@@ -1,0 +1,7 @@
+E:\C#_TestAutomation\Day_2\VS_FirstApp\VS_FirstApp\bin\Debug\VS_FirstApp.exe.config
+E:\C#_TestAutomation\Day_2\VS_FirstApp\VS_FirstApp\bin\Debug\VS_FirstApp.exe
+E:\C#_TestAutomation\Day_2\VS_FirstApp\VS_FirstApp\bin\Debug\VS_FirstApp.pdb
+E:\C#_TestAutomation\Day_2\VS_FirstApp\VS_FirstApp\obj\Debug\VS_FirstApp.csprojAssemblyReference.cache
+E:\C#_TestAutomation\Day_2\VS_FirstApp\VS_FirstApp\obj\Debug\VS_FirstApp.csproj.CoreCompileInputs.cache
+E:\C#_TestAutomation\Day_2\VS_FirstApp\VS_FirstApp\obj\Debug\VS_FirstApp.exe
+E:\C#_TestAutomation\Day_2\VS_FirstApp\VS_FirstApp\obj\Debug\VS_FirstApp.pdb
